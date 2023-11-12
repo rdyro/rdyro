@@ -1,4 +1,12 @@
-### Hi there 👋
+I am a PhD candidate in <a href="https://stanfordasl.github.io/">Autonomous
+Systems Lab (ASL) </a> at Stanford University, where I work on modelin and
+optimization algorithms for robotics.
+
+Check out my website at <a href="https://robertdyro.com/">robertdyro.com</a>
+
+I'm currently looking for full-time opportunities in accelerated computing and
+optimization in the second half of 2024.
+
 
 <!--
 **rdyro/rdyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
