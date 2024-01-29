@@ -1,11 +1,12 @@
 I am a PhD candidate in <a href="https://stanfordasl.github.io/">Autonomous
-Systems Lab (ASL) </a> at Stanford University, where I work on modelin and
+Systems Lab (ASL) </a> at Stanford University, where I work on modeling and
 optimization algorithms for robotics.
 
 Check out my website at <a href="https://robertdyro.com/">robertdyro.com</a>
 
-I'm currently looking for full-time opportunities in Research Engineering accelerated computing and
-optimization in the second half of 2024.
+I'm currently looking for full-time opportunities as a Research Scientist/Engineer in
+optimization, accelerated computing, behavior modeling for robotics, and AVs in the 
+second half of 2024.
 
 
 <!--
