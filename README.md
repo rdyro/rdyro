@@ -4,9 +4,9 @@ optimization algorithms for robotics.
 
 Check out my website at <a href="https://robertdyro.com/">robertdyro.com</a>
 
-I'm currently looking for full-time opportunities as a Research Scientist/Engineer in
+<!--I'm currently looking for full-time opportunities as a Research Scientist/Engineer in
 optimization, accelerated computing, behavior modeling for robotics, and AVs in the 
-second half of 2024.
+second half of 2024.-->
 
 
 <!--
